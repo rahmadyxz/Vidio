@@ -13,4 +13,4 @@ Note : Recommended Termux versi 0.117
 3. cd vidio
 4. py main.py
 
-Tele : https://t.me/MaterACar
+Credit : MaterACar
